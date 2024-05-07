@@ -1,0 +1,7 @@
+﻿Table;Loading-time (ms);Scripting-time (ms);Rendering-time (ms);Painting-time (ms);System-time (ms);Memory usage (MB);Memory usage (bytes);Gemiddelde FPS
+Basic 100;118;985;281;34;89;14,1;14088958;144
+Basic 1K;1810;4071;2355;112;266;157;157217184;79
+Basic 10K;585;3852;23951;2159;2682;381;380953308;10
+Advanced 100;28;4265;35;6;381;330;330046448;144
+Advanced 1K;28;2963;34;5;84;77,4;77407636;144
+Advanced 10K;29;7089;32;6;91;79,9;79927804;139

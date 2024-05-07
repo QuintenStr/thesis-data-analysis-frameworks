@@ -1,0 +1,5 @@
+﻿Framework;Bundle Size (MB);Build/Compilation Time (ms)
+Angular (Hello World);0,226;3032
+Blazor (Hello World);13,7;2834
+Angular (Testing);0,602;4393
+Blazor (Testing);17;5136
